@@ -124,12 +124,25 @@ Crea un repositorio en GitHub.
    ```
 ![git](img/github.PNG)
 
+Realizamos los pull-request de los compañeros:
+
+![pull](img/merged.PNG)
+
+Y el de Ana:
+
+![req](img/ana.PNG)
+
 Configura GitHub Pages desde la rama main.
 
 Netlify:
 
 - Crea una cuenta en Netlify.
+
+![git](img/netlify.PNG)
+
 - Conecta el repositorio y selecciona el directorio public/ como carpeta de publicación.
+
+![git](img/su-net.PNG)
 
 ---
 
@@ -140,6 +153,8 @@ Un sitio estático con temática variada, usando el tema PaperMod, desplegado en
 
 ### 🔧 Paso 1: Configura tu entorno
 (Similar al Paso 1 de la Tarea 1).
+
+![paper](img/1paper.PNG)
 
 ### 📂 Paso 2: Crea un nuevo proyecto
 Crea un sitio llamado sitio-variante:
@@ -168,6 +183,8 @@ Conecta tu repositorio y selecciona el directorio public/.
 ---
 ## 📘 Tarea 3: Documentación con MKDocs y Material
 Un sitio estático que documenta las actividades, basado en MKDocs y el tema Material, desplegado en GitHub Pages y Cloudflare.
+
+![mkdocs](img/1mkdocs.PNG)
 
 ---
 
